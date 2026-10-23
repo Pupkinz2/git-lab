@@ -13,6 +13,7 @@ int main(void)
     }
 
     printf("Вы ввели: %d и %d\n", a, b);
+    printf("Сумма: %d\n", a + b);
 
     return 0;
 }
