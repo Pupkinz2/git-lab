@@ -1,0 +1,7 @@
+program
+*.o
+*.a
+*.so
+*.dylib
+*.dSYM/
+.DS_Store
